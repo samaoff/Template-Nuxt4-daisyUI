@@ -2,85 +2,14 @@ Nuxt Minimal Starter
 
 A minimal starter template for Nuxt 4 with Tailwind CSS and DaisyUI.
 
-🚀 Live Demo: (Add your deployed URL here)
 
-Table of Contents
-
-Setup
-
-Development Server
-
-Production
-
-Deployment
-
-Setup
-
-Make sure to install dependencies:
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-
-Development Server
-
-Start the development server on http://localhost:3000:
-
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-
-Production
-
-Build the application for production:
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-
-Locally preview production build:
-
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 
 Deployment
 
 Check out the deployment documentation for more information.
 
-Screenshot
+<img width="2550" height="1270" alt="imagen" src="https://github.com/user-attachments/assets/ba555bc6-e2e0-4480-91dc-aba7dfdb0b80" />
+
 
 Below is a preview of the project:
 
